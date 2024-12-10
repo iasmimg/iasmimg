@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fpt%2Fview%2Faesthetic-vintage-gif-20172751&psig=AOvVaw0hWkRTTc9SkgeSi3gSVT-d&ust=1733876469767000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDb1Ov2m4oDFQAAAAAdAAAAABAE" target="_blank">
+  <a href="https://www.instagram.com/iasmimdia_s/profilecard/?igsh=MW15Y21zNm9xYzRzNQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
